@@ -10,7 +10,6 @@ void binary_tree_delete(binary_tree_t *tree) {
 
     free(tree);
 }
-
 // int main(void)
 // {
 //     binary_tree_t *root;
